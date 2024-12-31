@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    height: 450px;
+    background-image: url(../../../assets//logo2.jpg);
+    background-position: center top;
+    background-color: white;
+    background-size: contain;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 2rem;
+    position: relative;
+    z-index: -1;
+
+}

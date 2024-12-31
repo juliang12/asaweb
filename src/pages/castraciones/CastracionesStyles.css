@@ -1,0 +1,12 @@
+.slick-next:before {
+  font-size: 34px !important; /* Tamaño deseado */
+  line-height: 1; /* Ajuste opcional */
+}
+
+.slick-prev:before {
+    font-size: 34px !important;
+}
+
+.slick-prev {
+    left: -40px !important;
+}
